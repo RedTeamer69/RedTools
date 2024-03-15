@@ -1,2 +1,2 @@
 # RedTools
-Various simple tools and utils used during pen testing and redteams
+Various simple tools and utils collected during pen testing and redteams 
